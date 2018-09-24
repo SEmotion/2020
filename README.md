@@ -18,7 +18,7 @@ At the command line, `cd` into the repository's root directory and run GNU make
 # Deploying
 
 If you have SSH access to the server, the makefile can deploy the website
-automatically.  First, open the Makefile and set the variables `USERNAME`,
+automatically.  First, open the makefile and set the variables `USERNAME`,
 `HOSTNAME`, `HOME_DIRECTORY`, and `PUBLISHED_DIRECTORY` to match the server.
 
 Then, if you have an SSH key at `~/.ssh/id_rsa.pub` on your local machine, you
