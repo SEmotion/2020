@@ -13,7 +13,7 @@ emotions, and to hold mutual commitment to the project goals.
 Recently, researchers started to study the role of affective computing and
 affective states in software engineering. However, contributions on this topic
 are currently presented and discussed in diverse conferences and workshops. This
-workshop follows on the second edition held at ICSE 2017, towards the
+workshop follows on the third edition held at ICSE&nbsp;2018, towards the
 consolidation of an international, sustainable forum for researchers and
 practitioners interested in the role of affect in software engineering to meet,
 present, and discuss their work-in-progress.

@@ -3,13 +3,19 @@
 <div class="photos">
 
 ![Bonita Sharif  
-University of Nebraska—Lincoln](bonita.png)
+University of Nebraska—Lincoln  
+Lincoln, Nebraska, USA  
+<bsharif@unl.edu>](bonita.png)
 
-![Bonita Sharif  
-University of Nebraska—Lincoln](bonita.png)
+![Davide Fucci  
+University of Hamburg  
+Hamburg, Germany  
+<fucci@informatik.uni-hamburg.de>](davide.png)
 
-![Bonita Sharif  
-University of Nebraska—Lincoln](bonita.png)
+![Giuseppe Destefanis  
+Brunel University  
+London, UK  
+<giuseppe.destefanis@brunel.ac.uk>](giuseppe.png)
 
 </div>
 

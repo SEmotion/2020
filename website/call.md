@@ -12,7 +12,7 @@ emotions, and to hold mutual commitment to the project goals. Recently,
 researchers started to study the role of affective computing and affective
 states in software engineering. However, contributions on this topic are
 currently presented and discussed in diverse conferences and workshops. This
-workshop follows on the second edition held at ICSE 2017, towards the
+workshop follows on the third edition held at ICSE&nbsp;2018, towards the
 consolidation of an international, sustainable forum for researchers and
 practitioners interested in the role of affect in software engineering to meet,
 present, and discuss their work-in-progress. Highquality contributions about
@@ -84,15 +84,15 @@ All accepted papers will be distributed to workshop participants and will be
 invited to be included in a workshop proceedings published in the ACM and IEEE
 CS Digital Libraries. The official publication date of the workshop proceedings
 is the date the proceedings are made available in the ACM Library. This date may
-be up to two weeks prior to the first day of ICSE 2018. The official publication
+be up to two weeks prior to the first day of ICSE 2019. The official publication
 date affects the deadline for any patent filings related to published work.
 
 ## Dates
 
-*   Paper submissions: 2019 February&nbsp;1
-*   Notification to authors: 2019 March&nbsp;1
-*   Camera-ready copies due: 2019 March&nbsp;15
-*   Workshop: 2019 May&nbsp;27 in [location](…).
+*   Paper submissions: 1&nbsp;February 2019
+*   Notification to authors: 1&nbsp;March 2019
+*   Camera-ready copies due: 15&nbsp;March 2019
+*   Workshop: 27&nbsp;May 2019 in [location](…).
 
 ## Organizers
 
@@ -107,7 +107,6 @@ date affects the deadline for any patent filings related to published work.
 *   Kelly Blincoe, Auckland University of Technology, New Zealand
 *   Fabio Calefato, University of Bari, Italy
 *   Daniela Damian, University of Victoria, Canada
-*   Giuseppe Destefanis, University Of Hertfordshire, UK
 *   Prasun Dewan, University of North Carolina, Chapel Hill, USA
 *   Fabian Fagerholm, University of Helsinki, Finland
 *   Robert Feldt, Chalmers University of Technology, Sweden
@@ -125,7 +124,6 @@ date affects the deadline for any patent filings related to published work.
 *   Viviana Patti, University of Torino, Italy
 *   David Redmiles, University of California, Irvine, USA
 *   Paige Rutner, Texas Tech University, USA
-*   Bonita Sharif, Youngstown State University, USA
 *   Janet Siegmund, University of Passau, Germany
 *   Michał Wróbel, Gdansk University of Technology, Poland
 *   Minhaz F. Zibran, University of New Orleans, USA

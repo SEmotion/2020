@@ -27,6 +27,8 @@ OUTPUTS = \
 	past.html \
 	index.css \
 	bonita.png \
+	davide.png \
+	giuseppe.png \
 
 output/index.html:	website/index.md
 output/call.html:	website/call.md
