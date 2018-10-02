@@ -7,10 +7,9 @@ DIRECTORIES = output
 
 HTML_TEMPLATE = website/template.html
 
-USERNAME = semotion
-HOSTNAME = cse.unl.edu
-HOME_DIRECTORY = /home/grad/Classes/$(USERNAME)
-PUBLISHED_DIRECTORY = $(HOME_DIRECTORY)/public_html
+YEAR = 2019
+USERNAME = $(shell git config --get user.name)
+EMAIL = $(git config --get user.email)
 
 # Default Target (must appear before rules for output files)
 
@@ -38,19 +37,24 @@ output/past.html:	website/past.md
 
 # Targets
 
-.PHONY:	all authorization deploy clean
+.PHONY:	all deploy clean
 
 all:	$(OUTPUTS:%=output/%)
 
-authorization:	~/.ssh/id_rsa.pub
-	scp ~/.ssh/id_rsa.pub "$(USERNAME)@$(HOSTNAME):$(HOME_DIRECTORY)/.ssh/$$(hostname)"
-	ssh $(USERNAME)@$(HOSTNAME) "cat $(HOME_DIRECTORY)/.ssh/$$(hostname) >> $(HOME_DIRECTORY)/.ssh/authorized_keys; rm $(HOME_DIRECTORY)/.ssh/$$(hostname)"
-
 deploy:	all
-	(cd output; rsync -rptv . '$(USERNAME)@$(HOSTNAME):$(PUBLISHED_DIRECTORY)')
-	ssh $(USERNAME)@$(HOSTNAME) 'chmod 755 $(PUBLISHED_DIRECTORY)'
+	(cd output; rm -rf .clone)
+	(cd output; git clone git@github.com:SEmotion/$(YEAR).git .clone)
+	(cd output; mv .clone/.git ./)
+	(cd output; rm -rf .clone)
+	(cd output; git config --global user.name "$(USERNAME)")
+	(cd output; git config --global user.email "$(EMAIL)")
+	(cd output; git add .)
+	(cd output; git commit -m "Published snapshot as of $$(date +'%Y-%m-%d').")
+	(cd output; git push)
+	(cd output; rm -rf .git)
 
 clean:
+	-rm -rf output/.git
 	-rm -r $(DIRECTORIES)
 
 # Acircularity Rules
