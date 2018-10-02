@@ -42,14 +42,14 @@ output/past.html:	website/past.md
 all:	$(OUTPUTS:%=output/%)
 
 deploy:	all
-	(cd output; rm -rf .clone)
-	(cd output; git clone git@github.com:SEmotion/$(YEAR).git .clone)
+	(cd output; rm -rf .clone .git)
+	(cd output; git clone -q "git@github.com:SEmotion/$(YEAR).git" .clone)
 	(cd output; mv .clone/.git ./)
 	(cd output; rm -rf .clone)
 	(cd output; git config --global user.name "$(USERNAME)")
 	(cd output; git config --global user.email "$(EMAIL)")
 	(cd output; git add .)
-	(cd output; git commit -m "Published snapshot as of $$(date +'%Y-%m-%d').")
+	(cd output; git commit -m "Published snapshot as of $$(date +'%Y-%m-%d')." || true)
 	(cd output; git push)
 	(cd output; rm -rf .git)
 
