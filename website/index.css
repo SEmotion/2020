@@ -81,6 +81,7 @@ div.banner div.attribution {
     opacity: 0.75;
 }
 div.banner div.attribution a, div.banner div.attribution a:visited {
+    color: #9bd;
     text-decoration: none;
 }
 

@@ -25,6 +25,7 @@ OUTPUTS = \
 	program.html \
 	past.html \
 	index.css \
+	montreal.jpeg \
 	bonita.png \
 	davide.png \
 	giuseppe.png \
