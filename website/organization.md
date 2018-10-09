@@ -2,49 +2,55 @@
 
 <div class="photos">
 
-![Bonita Sharif  
-University of Nebraska—Lincoln  
-Lincoln, Nebraska, USA  
-<bsharif@unl.edu>](bonita.png)
+![[Bonita Sharif](mailto:bsharif@unl.edu)  
+University of  
+Nebraska—Lincoln  
+Lincoln, Nebraska, USA](bonita.png)
 
-![Davide Fucci  
+![[Davide Fucci](mailto:fucci@informatik.uni-hamburg.de)  
 University of Hamburg  
 Hamburg, Germany  
-<fucci@informatik.uni-hamburg.de>](davide.png)
+&nbsp;](davide.png)
 
-![Giuseppe Destefanis  
+![[Giuseppe Destefanis](mailto:giuseppe.destefanis@brunel.ac.uk)  
 Brunel University  
 London, UK  
-<giuseppe.destefanis@brunel.ac.uk>](giuseppe.png)
+&nbsp;](giuseppe.png)
 
 </div>
 
 ## Program Committee
 
-*   Bram Adams, Polytechnique Montréal, Canada
-*   Raian Ali, Bournemouth University, UK
+*   Bram Adams, Ecole Polytechnique de Montreal, Canada
+*   Raian Ali, Bournemouth University, United Kingdom
+*   Roman Bednarik, Univ. of Eastern Finland, Finland
 *   Kelly Blincoe, Auckland University of Technology, New Zealand
 *   Fabio Calefato, University of Bari, Italy
 *   Daniela Damian, University of Victoria, Canada
-*   Giuseppe Destefanis, University Of Hertfordshire, UK
-*   Prasun Dewan, University of North Carolina, Chapel Hill, USA
-*   Fabian Fagerholm, University of Helsinki, Finland
-*   Robert Feldt, Chalmers University of Technology, Sweden
-*   Emitzá Guzmán Ortega, University of Zurich, Switzerland
+*   Prasun Dewan, U. North Carolina, Chapel Hill, USA
+*   Fabian Fagerholm, BTH, Sweden
+*   Robert Feldt, Chalmers University, Sweden
+*   Daniel Graziotin, University of Stuttgart, Germany
+*   Eduard Groen, IESE Fraunhofer, Germany
+*   Ayse Gunsel, Kocaeli University, Turkey
+*   Emitza Guzman, Technical University Munich, Germany
 *   Hideaki Hata, Nara Institute of Science and Technology, Japan
+*   Julio Cesar Leite, Pontifical Catholic University of Rio de Janeiro, Brazil
 *   Filippo Lanubile, University of Bari, Italy
-*   Pascale Le Blanc, Eindhoven University of Tehnology, The Netherlands
 *   Seok-Won Lee, Ajou University, Republic of Korea
-*   Per Lenber, SAAB and Chalmers University of Technology, Sweden
+*   Per Lernberg, Chalmers University, Sweden
 *   Walid Maalej, University of Hamburg, Germany
 *   Mika Mäntylä, University of Oulu, Finland
 *   Nicole Novielli, University of Bari, Italy
-*   Marco Ortu, University of Cagliari, Italy
+*   Maleknaz Nayebi, Polytechnique Montréal, Canada
+*   Marco Ortu, Universit degli Studi di Cagliari, Italy
+*   Viviana Patti, University of Turin, Italy
 *   Chris Parnin, North Carolina State University, USA
-*   Viviana Patti, University of Torino, Italy
-*   David Redmiles, University of California, Irvine, USA
+*   Ayushi Rastogi, University of California, USA
+*   David Redmiles, University of California, USA
 *   Paige Rutner, Texas Tech University, USA
-*   Bonita Sharif, Youngstown State University, USA
+*   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
 *   Janet Siegmund, University of Passau, Germany
-*   Michał Wróbel, Gdansk University of Technology, Poland
+*   Ricardo Soto, Pontificia Universidad Catlica de Valparaso, Chile
+*   Michał Wróbel, Gdansk Univ. of Technology, Poland
 *   Minhaz F. Zibran, University of New Orleans, USA
