@@ -64,22 +64,26 @@ limited to:
 *   Methodologies and standards
 *   Replications of prior studies
 
-## Types of Contributions
+## Types of Contributions and Format Guidelines
 
-We invite four kinds of submissions:
+We invite three kinds of submissions:
 
-*   Full papers (6&nbsp;pages) describe emotion awareness challenges, needs,
+*   Full papers (6&nbsp;pages) describing emotion awareness challenges, needs,
     novel approaches, and frameworks. New approaches must be evaluated with
     users in this category. Empirical evaluation papers and industrial
     experience reports are also welcome.
-*   Short position papers (3-4&nbsp;pages) describe a new idea or work in
-    progress.
-*   Challenge papers (4&nbsp;pages) The challenge report describes the results
-    obtained from a dataset which will be advertised on the workshop
-    website. The papers should cover the following aspects: questions addressed,
-    approach and tools used, results and interpretation, summary of conclusions.
-*   Posters, data showcase and demo papers (1-2&nbsp;pages) summarize a research
-    project, tool, technique or datasets.
+*   Short papers (3-4&nbsp;pages) describing new ideas, works in progress,
+    datasets/artifacts, or tools/demos.
+*   Posters (1-2&nbsp;pages) summarizing research
+    projects, demos, techniques.
+
+Artifact and demo papers may be either long or short papers depending on the
+level of maturity they are at. We especially encourage evaluation of systems on
+publicly available benchmark datasets such as the [Jira
+dataset](https://doi.org/10.1145/2901739.2903505), [Stack Overflow gold standard
+on emotions](https://arxiv.org/abs/1803.02300), and sentiment analysis datasets.
+
+<!-- https://link.springer.com/article/10.1007/s10664-017-9546-9#Sec7 -->
 
 Authors may use additional pages (up to 8&nbsp;total) for references.  All
 papers must be in English and must conform, at time of submission, to the ICSE
@@ -107,38 +111,44 @@ in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 *   Davide Fucci, University of Hamburg, Germany
 *   Giuseppe Destefanis, Brunel University London, UK
 
-## Program Committee
+## Tentative Program Committee
 
 *   Bram Adams, Ecole Polytechnique de Montreal, Canada
 *   Raian Ali, Bournemouth University, United Kingdom
-*   Roman Bednarik, Univ. of Eastern Finland, Finland
-*   Kelly Blincoe, Auckland University of Technology, New Zealand
-*   Fabio Calefato, University of Bari, Italy
+*   Jens Augustsson, Combitech, Sweden
+*   Andrew Begel, Microsoft, USA (confirmed)
+*   Kelly Blincoe, Auckland Univ. of Tech., New Zealand
+*   Fabio Calefato, University of Bari, Italy (confirmed)
 *   Daniela Damian, University of Victoria, Canada
 *   Prasun Dewan, U. North Carolina, Chapel Hill, USA
 *   Fabian Fagerholm, BTH, Sweden
 *   Robert Feldt, Chalmers University, Sweden
-*   Daniel Graziotin, University of Stuttgart, Germany
+*   Daniel Graziotin, Univ. of Stuttgart, Germany (confirmed)
+*   Lucas Gren, Volvo, Sweden
 *   Eduard Groen, IESE Fraunhofer, Germany
-*   Ayse Gunsel, Kocaeli University, Turkey
-*   Emitza Guzman, Technical University Munich, Germany
-*   Hideaki Hata, Nara Institute of Science and Technology, Japan
-*   Julio Cesar Leite, Pontifical Catholic University of Rio de Janeiro, Brazil
-*   Filippo Lanubile, University of Bari, Italy
+*   Emitza Guzman, Telefnica Deutschland, Germany
+*   Hideaki Hata, Nara Inst. of Science and Tech, Japan
+*   Daniel Izquierdo, Bitergia, Spain
+*   Julio Cesar Leite, Pontifical Catholic Univ. of Rio de Janeiro, Brazil
+*   Filippo Lanubile, University of Bari, Italy (confirmed)
 *   Seok-Won Lee, Ajou University, Republic of Korea
 *   Per Lernberg, Chalmers University, Sweden
-*   Walid Maalej, University of Hamburg, Germany
-*   Mika Mäntylä, University of Oulu, Finland
-*   Nicole Novielli, University of Bari, Italy
-*   Maleknaz Nayebi, Polytechnique Montréal, Canada
-*   Marco Ortu, Universit degli Studi di Cagliari, Italy
+*   Fredrik Lundberg, Saab, Sweden
+*   Walid Maalej, Univ. of Hamburg, Germany (confirmed)
+*   Mika Mäntylä, University of Oulu, Finland (confirmed)
+*   Nicole Novielli, University of Bari, Italy (confirmed)
+*   Maleknaz Nayebi, Polytechnique Montréal, Canada (confirmed)
+*   Marco Ortu, Universit degli Studi di Cagliari, Italy (confirmed)
 *   Viviana Patti, University of Turin, Italy
 *   Chris Parnin, North Carolina State University, USA
-*   Ayushi Rastogi, University of California, USA
-*   David Redmiles, University of California, USA
+*   Ayushi Rastogi, Delft Univ. of Technology, Netherlands
+*   David Redmiles, University of California at Irvine, USA
 *   Paige Rutner, Texas Tech University, USA
-*   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
+*   Alexander Serebrenik, TU Eindhoven, Netherlands (confirmed)
 *   Janet Siegmund, University of Passau, Germany
 *   Ricardo Soto, Pontificia Universidad Catlica de Valparaso, Chile
+*   Lars Goran Wallgren Tenberg, Evry, Sweden
+*   Joyce Westerink, Philips, Netherlands
 *   Michał Wróbel, Gdansk Univ. of Technology, Poland
+*   Leonardo Zanchi, Sky, Italy
 *   Minhaz F. Zibran, University of New Orleans, USA
