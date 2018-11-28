@@ -89,7 +89,8 @@ Authors may use additional pages (up to 8&nbsp;total) for references.  All
 papers must be in English and must conform, at time of submission, to the ICSE
 formatting guidelines for Technical Research. Papers must be submitted
 electronically, in PDF format. The submission site is hosted by EasyChair and
-can be accessed from the workshop website.
+can be accessed at
+<https://easychair.org/account/signin.cgi?key=80856453.tymAHaIc1kmO6qMa>.
 
 Three members from the international program committee will review each
 submission. Papers will be evaluated based on their originality, relevance to
@@ -103,52 +104,10 @@ in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 *   Paper submissions: 1&nbsp;February 2019
 *   Notification to authors: 1&nbsp;March 2019
 *   Camera-ready copies due: 15&nbsp;March 2019
-<!-- *   Workshop: 25&nbsp;May 2019 in [location](…). -->
+*   Workshop: 28&nbsp;May 2019 in [location](…).
 
 ## Organizers
 
 *   Bonita Sharif, University of Nebraska—Lincoln, USA
 *   Davide Fucci, University of Hamburg, Germany
 *   Giuseppe Destefanis, Brunel University London, UK
-
-## Tentative Program Committee
-
-*   Bram Adams, Ecole Polytechnique de Montreal, Canada
-*   Raian Ali, Bournemouth University, United Kingdom
-*   Jens Augustsson, Combitech, Sweden
-*   Andrew Begel, Microsoft, USA (confirmed)
-*   Kelly Blincoe, Auckland Univ. of Tech., New Zealand
-*   Fabio Calefato, University of Bari, Italy (confirmed)
-*   Daniela Damian, University of Victoria, Canada
-*   Prasun Dewan, U. North Carolina, Chapel Hill, USA
-*   Fabian Fagerholm, BTH, Sweden
-*   Robert Feldt, Chalmers University, Sweden
-*   Daniel Graziotin, Univ. of Stuttgart, Germany (confirmed)
-*   Lucas Gren, Volvo, Sweden
-*   Eduard Groen, IESE Fraunhofer, Germany
-*   Emitza Guzman, Telefnica Deutschland, Germany
-*   Hideaki Hata, Nara Inst. of Science and Tech, Japan
-*   Daniel Izquierdo, Bitergia, Spain
-*   Julio Cesar Leite, Pontifical Catholic Univ. of Rio de Janeiro, Brazil
-*   Filippo Lanubile, University of Bari, Italy (confirmed)
-*   Seok-Won Lee, Ajou University, Republic of Korea
-*   Per Lernberg, Chalmers University, Sweden
-*   Fredrik Lundberg, Saab, Sweden
-*   Walid Maalej, Univ. of Hamburg, Germany (confirmed)
-*   Mika Mäntylä, University of Oulu, Finland (confirmed)
-*   Nicole Novielli, University of Bari, Italy (confirmed)
-*   Maleknaz Nayebi, Polytechnique Montréal, Canada (confirmed)
-*   Marco Ortu, Universit degli Studi di Cagliari, Italy (confirmed)
-*   Viviana Patti, University of Turin, Italy
-*   Chris Parnin, North Carolina State University, USA
-*   Ayushi Rastogi, Delft Univ. of Technology, Netherlands
-*   David Redmiles, University of California at Irvine, USA
-*   Paige Rutner, Texas Tech University, USA
-*   Alexander Serebrenik, TU Eindhoven, Netherlands (confirmed)
-*   Janet Siegmund, University of Passau, Germany
-*   Ricardo Soto, Pontificia Universidad Catlica de Valparaso, Chile
-*   Lars Goran Wallgren Tenberg, Evry, Sweden
-*   Joyce Westerink, Philips, Netherlands
-*   Michał Wróbel, Gdansk Univ. of Technology, Poland
-*   Leonardo Zanchi, Sky, Italy
-*   Minhaz F. Zibran, University of New Orleans, USA
