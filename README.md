@@ -17,13 +17,5 @@ At the command line, `cd` into the repository's root directory and run GNU make
 
 # Deploying
 
-If you have SSH access to the server, the makefile can deploy the website
-automatically.  First, open the makefile and set the variables `USERNAME`,
-`HOSTNAME`, `HOME_DIRECTORY`, and `PUBLISHED_DIRECTORY` to match the server.
-
-Then, if you have an SSH key at `~/.ssh/id_rsa.pub` on your local machine, you
-can add that key as trusted by running `make authorization` (or `gmake
-authorization`) and entering the server account's password twice.  Otherwise you
-will have to enter the password every time you want to deploy.
-
-To deploy the site, simply run `make deploy`.
+If you have access to year-specific repository, the makefile can deploy the
+website automatically.  Simply run `make deploy`.
