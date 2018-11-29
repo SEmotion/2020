@@ -104,7 +104,7 @@ in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 *   Paper submissions: 1&nbsp;February 2019
 *   Notification to authors: 1&nbsp;March 2019
 *   Camera-ready copies due: 15&nbsp;March 2019
-*   Workshop: 28&nbsp;May 2019 in [location](…).
+*   Workshop: 28&nbsp;May 2019
 
 ## Organizers
 

@@ -28,10 +28,16 @@ London, UK
 *   Fabio Calefato, University of Bari, Italy
 *   Prasun Dewan, The University of North Carolina at Chapel Hill, USA
 *   Fabian Fagerholm, University of Helsinki, Sweden
+*   Lucas Gren, Chalmers University of Technology and The University of Gothenburg, Sweden
 *   Filippo Lanubile, University of Bari, Italy
 *   Walid Maalej, University of Hamburg, Germany
+*   Mika Mäntylä, University of Oulu, Finland
+*   Maleknaz Nayebi, Polytechnique Montréal, Canada
+*   Nicole Novielli, University of Bari, Italy
+*   Marco Ortu, University of Cagliari, Italy
 *   Chris Parnin, North Carolina State University, USA
 *   Viviana Patti, University of Torino, Italy
+*   Ayushi Rastogi, Delft University of Technology, Netherlands
 *   Paige Rutner, Texas Tech University, USA
 *   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
 *   Minhaz Zibran, University of Saskatchewan, Canada
