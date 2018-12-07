@@ -40,4 +40,4 @@ London, UK
 *   Ayushi Rastogi, Delft University of Technology, Netherlands
 *   Paige Rutner, Texas Tech University, USA
 *   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
-*   Minhaz Zibran, University of Saskatchewan, Canada
+*   Minhaz Zibran, University of Saskatchewan, USA
