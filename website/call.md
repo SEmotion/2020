@@ -98,6 +98,8 @@ reviews will be accepted to be presented at the workshop. All accepted papers
 will be distributed to workshop participants and will be invited to be included
 in a workshop proceedings published in the ACM and IEEE CS Digital Libraries.
 
+You can download the PDF version of this CfP [here](SEmotion19.pdf).
+
 ## Dates
 
 *   Paper submissions: 1&nbsp;February 2019

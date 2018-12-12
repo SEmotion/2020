@@ -29,12 +29,14 @@ OUTPUTS = \
 	bonita.png \
 	davide.png \
 	giuseppe.png \
+	SEmotion19.pdf \
 
 output/index.html:	website/index.md
 output/call.html:	website/call.md
 output/organization.html:	website/organization.md
 output/program.html:	website/program.md
 output/past.html:	website/past.md
+SEmotion19.pdf:	website/SEmotion19.pdf
 
 # Targets
 
@@ -88,3 +90,6 @@ output/%.png:	website/%.png | $(DIRECTORIES)
 
 output/%.jpeg:	website/%.jpeg | $(DIRECTORIES)
 	cp $(@:output/%.jpeg=website/%.jpeg) "$@"
+
+output/%.pdf:	website/%.pdf | $(DIRECTORIES)
+	cp $(@:output/%.pdf=website/%.pdf) "$@"
