@@ -28,8 +28,12 @@ London, UK
 *   Fabio Calefato, University of Bari, Italy
 *   Prasun Dewan, The University of North Carolina at Chapel Hill, USA
 *   Fabian Fagerholm, University of Helsinki, Sweden
+*   Daniel Graziotin, University of Stuttgart, Germany
 *   Lucas Gren, Chalmers University of Technology and The University of Gothenburg, Sweden
+*   Eduard Groen, Fraunhofer IESE, Germany
+*   Emitza Guzman, University of Zurich, Switzerland
 *   Filippo Lanubile, University of Bari, Italy
+*   Seok-Won Lee, Ajou University, South Korea
 *   Walid Maalej, University of Hamburg, Germany
 *   Mika Mäntylä, University of Oulu, Finland
 *   Maleknaz Nayebi, Polytechnique Montréal, Canada
@@ -38,6 +42,7 @@ London, UK
 *   Chris Parnin, North Carolina State University, USA
 *   Viviana Patti, University of Torino, Italy
 *   Ayushi Rastogi, Delft University of Technology, Netherlands
+*   David Redmiles, University of California, Irvine, USA
 *   Paige Rutner, Texas Tech University, USA
 *   Alexander Serebrenik, Eindhoven University of Technology, Netherlands
 *   Minhaz Zibran, University of New Orleans, USA
