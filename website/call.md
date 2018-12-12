@@ -89,8 +89,7 @@ Authors may use additional pages (up to 8&nbsp;total) for references.  All
 papers must be in English and must conform, at time of submission, to the ICSE
 formatting guidelines for Technical Research. Papers must be submitted
 electronically, in PDF format. The submission site is hosted by EasyChair and
-can be accessed at
-<https://easychair.org/account/signin.cgi?key=80856453.tymAHaIc1kmO6qMa>.
+can be accessed [here](https://easychair.org/conferences/?conf=semotion2019).
 
 Three members from the international program committee will review each
 submission. Papers will be evaluated based on their originality, relevance to
