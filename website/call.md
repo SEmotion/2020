@@ -102,7 +102,7 @@ You can download the PDF version of this CfP [here](SEmotion19.pdf).
 
 ## Dates
 
-*   Paper submissions: 1&nbsp;February 2019
+*   Paper submissions: ~~1&nbsp;February 2019~~ 6&nbsp;February 2019
 *   Notification to authors: 1&nbsp;March 2019
 *   Camera-ready copies due: 15&nbsp;March 2019
 *   Workshop: 28&nbsp;May 2019
