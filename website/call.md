@@ -86,10 +86,12 @@ on emotions](https://arxiv.org/abs/1803.02300), and sentiment analysis datasets.
 <!-- https://link.springer.com/article/10.1007/s10664-017-9546-9#Sec7 -->
 
 Authors may use additional pages (up to 8&nbsp;total) for references.  All
-papers must be in English and must conform, at time of submission, to the ICSE
-formatting guidelines for Technical Research. Papers must be submitted
-electronically, in PDF format. The submission site is hosted by EasyChair and
-can be accessed [here](https://easychair.org/conferences/?conf=semotion2019).
+papers must be in English and must conform, at time of submission, to [the ICSE
+formatting guidelines for Technical
+Research](https://www.ieee.org/conferences/publishing/templates.html). Papers
+must be submitted electronically, in PDF format. The submission site is hosted
+by EasyChair and can be accessed
+[here](https://easychair.org/conferences/?conf=semotion2019).
 
 Three members from the international program committee will review each
 submission. Papers will be evaluated based on their originality, relevance to
