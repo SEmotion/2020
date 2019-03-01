@@ -38,7 +38,7 @@ Fabio Calefato, Filippo Lanubile, Nicole Novielli, and Luigi Quaranta
 **Towards Recognizing the Emotions of Developers Using Biometrics: The Design of a Field Study**  
 Daniela Girardi, Filippo Lanubile, Nicole Novielli, Luigi Quaranta, and Alexander Serebrenik
 
-**What software engineering can learn from research on affect in social psychology**  
+**What Software Engineering can Learn from Research on Affect in Social Psychology**  
 Lucas Gren, Per Lenberg, and Karolina Ljungberg
 
 **Fostering Positive Affects in Software Development Environments using Extended Reality**  
@@ -47,7 +47,7 @@ Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, and Sanjay Podder
 **A Longitudinal Study on the Maintainers' Sentiment of a Large Scale Open Source Ecosystem**  
 Isabella Ferreira, Kate Stewart, Daniel German, and Bram Adams
 
-**Emotions in software practice: presentation vs. coding**  
+**Emotions in Software Practice: Presentation vs. Coding**  
 Ricardo Colomo-Palacios, Terje Samuelsen, and Cristina Casado-Lumbreras
 
 **Developers' Sentiment and Issue Reopening**  
