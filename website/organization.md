@@ -40,7 +40,6 @@ London, UK
 *   Nicole Novielli, University of Bari, Italy
 *   Marco Ortu, University of Cagliari, Italy
 *   Chris Parnin, North Carolina State University, USA
-*   Viviana Patti, University of Torino, Italy
 *   Ayushi Rastogi, Delft University of Technology, Netherlands
 *   David Redmiles, University of California, Irvine, USA
 *   Paige Rutner, Texas Tech University, USA
