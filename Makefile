@@ -9,7 +9,7 @@ HTML_TEMPLATE = website/template.html
 
 YEAR = 2019
 USERNAME = $(shell git config --get user.name)
-EMAIL = $(git config --get user.email)
+EMAIL = $(shell git config --get user.email)
 
 # Default Target (must appear before rules for output files)
 
