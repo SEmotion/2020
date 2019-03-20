@@ -129,6 +129,11 @@ footer {
 div.photos {
     text-align: center;
 }
+div.photo {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1ex;
+}
 figure {
     display: inline-block;
     margin: 0.25em;

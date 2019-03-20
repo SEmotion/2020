@@ -29,6 +29,7 @@ OUTPUTS = \
 	bonita.png \
 	davide.png \
 	giuseppe.png \
+	maital.png \
 	SEmotion19.pdf \
 
 output/index.html:	website/index.md
