@@ -69,10 +69,26 @@ $else$
 	  <li><a href="organization.html">Organization</a></li>
 $endif$
 $if(page-program)$
-	  <li class="selected"><a href="program.html">Program</a></li>
+	  <li class="selected">
 $else$
-	  <li><a href="program.html">Program</a></li>
+$if(page-keynote)$
+	  <li class="selected">
+$else$
+	  <li>
 $endif$
+$endif$
+	  <a href="program.html">Program</a><ul>
+$if(page-program)$
+	    <li class="selected"><a href="program.html">Schedule</a></li>
+$else$
+	    <li><a href="program.html">Schedule</a></li>
+$endif$
+$if(page-keynote)$
+	    <li class="selected"><a href="keynote.html">Keynote</a></li>
+$else$
+	    <li><a href="keynote.html">Keynote</a></li>
+$endif$
+	  </ul></li>
 	  <li><a href="https://2019.icse-conferences.org/attending/registration">Registration</a></li>
 $if(page-past)$
 	  <li class="selected"><a href="past.html">Past Events</a></li>
