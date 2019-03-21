@@ -23,6 +23,7 @@ OUTPUTS = \
 	call.html \
 	organization.html \
 	program.html \
+	keynote.html \
 	past.html \
 	index.css \
 	montreal.jpeg \
@@ -36,6 +37,7 @@ output/index.html:	website/index.md
 output/call.html:	website/call.md
 output/organization.html:	website/organization.md
 output/program.html:	website/program.md
+output/keynote.html:	website/keynote.md
 output/past.html:	website/past.md
 SEmotion19.pdf:	website/SEmotion19.pdf
 
