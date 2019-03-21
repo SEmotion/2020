@@ -17,20 +17,20 @@ Time        Event
 10:30–11:00 Coffee Break
 
 11:00–12:00 **Biometric Devices for Emotional Awareness in SE** <!-- – Chair: Person -->
-            
+
             Toward Usability Problem Identification Based on User
 			Emotions Derived from Facial Expressions
 			(20&nbsp;min.)<br>
             *Jan Ole Johanssen, Jan Philip Bernius, and
 			Bernd Bruegge<br>
 			Technical University of Munich*
-            
+
             Supporting Rapid Product Changes through Emotional
 			Tracking (short paper, 20&nbsp;min.)<br>
             *Patrick Mennig, Simon Andre Scherr, and
 			Frank Elberzhager<br>
 			Fraunofer IESE*
-            
+
             Towards Recognizing the Emotions of Developers Using
 			Biometrics: The Design of a Field Study (short paper,
 			20&nbsp;min.)<br>
