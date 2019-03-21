@@ -12,7 +12,7 @@ Time        Event
 			*Maital Neta<br>
 			University of Nebraska—Lincoln*
 
-10:10–01:30 Lightning Talks
+10:10–10:30 Lightning Talks
 
 10:30–11:00 Coffee Break
 
