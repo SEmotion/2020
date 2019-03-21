@@ -1,29 +1,3 @@
-## Schedule
-
-[To be determined]
-
-<!-- ---------------------------------------------------------------------- -->
-<!-- Time        Event -->
-<!-- ----------- ---------------------------------------------------------- -->
-<!-- 9:00–9:15   Wecome and Introductions -->
-
-<!-- 9:15–10:30  **Session I** – Chair: Person -->
-            
-<!--             **Title**<br> -->
-<!--             Author, Author, Author -->
-            
-<!--             **Title**<br> -->
-<!--             Author, Author, Author -->
-            
-<!--             **Title**<br> -->
-<!--             Author, Author, Author -->
-            
-<!-- 10:30–11:00 Coffee Break -->
-
-<!-- etc.        etc. -->
-
-<!-- ---------------------------------------------------------------------- -->
-
 ## Keynote
 
 <p style="text-align: center;">
@@ -90,7 +64,7 @@ Patrick Mennig, Simon Andre Scherr, and Frank Elberzhager
 **Toward Usability Problem Identification Based on User Emotions Derived from Facial Expressions**  
 Jan Ole Johanssen, Jan Philip Bernius, and Bernd Bruegge
 
-**EMTk - The Emotion Mining Toolkit**  
+**EMTk — The Emotion Mining Toolkit**  
 Fabio Calefato, Filippo Lanubile, Nicole Novielli, and Luigi Quaranta
 
 **Towards Recognizing the Emotions of Developers Using Biometrics: The Design of a Field Study**  
@@ -109,7 +83,114 @@ Isabella Ferreira, Kate Stewart, Daniel German, and Bram Adams
 Ricardo Colomo-Palacios, Terje Samuelsen, and Cristina Casado-Lumbreras
 
 **Developers' Sentiment and Issue Reopening**  
-Jonathan Cheruvelil, and Bruno da Silva
+Jonathan Cheruvelil and Bruno da Silva
 
 **Empirical Analysis of Affect of Merged Issues on GitHub**  
 Marco Ortu, Michele Marchesi, and Roberto Tonelli
+
+## Schedule
+
+----------------------------------------------------------------------
+Time        Event
+----------- ----------------------------------------------------------
+09:00–09:10 Welcome and Introductions
+
+09:10–10:10 **Keynote**
+
+            In the 'Face' of Uncertainty: Charting Variability in
+            Response to Emotional Ambiguity<br>
+			*Maital Neta<br>
+			University of Nebraska—Lincoln*
+
+10:10–01:30 Lightning Talks
+
+10:30–11:00 Coffee Break
+
+11:00–12:00 **Biometric Devices for Emotional Awareness in SE** <!-- – Chair: Person -->
+            
+            Toward Usability Problem Identification Based on User
+			Emotions Derived from Facial Expressions
+			(20&nbsp;min.)<br>
+            *Jan Ole Johanssen, Jan Philip Bernius, and
+			Bernd Bruegge<br>
+			Technical University of Munich*
+            
+            Supporting Rapid Product Changes through Emotional
+			Tracking (short paper, 20&nbsp;min.)<br>
+            *Patrick Mennig, Simon Andre Scherr, and
+			Frank Elberzhager<br>
+			Fraunofer IESE*
+            
+            Towards Recognizing the Emotions of Developers Using
+			Biometrics: The Design of a Field Study (short paper,
+			20&nbsp;min.)<br>
+            *Daniela Girardi, Filippo Lanubile, Nicole Novielli,
+			Luigi Quaranta, and Alexander Serebrenik<br>
+			University of Bari and Eindhoven University of Technology*
+
+12:00–12:30 **Panel Discussion**
+
+12:30–02:00 Lunch Break
+
+02:00–03:00 **Emotional Awareness in SE for Practice** <!-- – Chair: Person -->
+
+            A Longitudinal Study on the Maintainers' Sentiment of a
+			Large Scale Open Source Ecosystem (20&nbsp;min.)<br>
+            *Isabella Ferreira, Kate Stewart, Daniel German, and
+			Bram Adams<br>
+			Polytechnique Montréal, University of Victoria, and
+			Linux Foundation*
+
+            Emotions in Software Practice: Presentation vs. Coding
+			(short paper, 20&nbsp;min.)<br>
+            *Ricardo Colomo-Palacios, Terje Samuelsen, and
+			Cristina Casado-Lumbreras<br>
+			Østfold University College and
+			Universidad Complutense de Madrid*
+
+            Developers' Sentiment and Issue Reopening
+			(short paper, 20&nbsp;min.)<br>
+            *Jonathan Cheruvelil and Bruno da Silva<br>
+            Amazon and California Polytechnic State University,
+			San Luis Obispo*
+
+03:00–03:30 **Invited Talk**
+
+            TBD<br>
+			*Robert Feldt<br>
+            Chalmers University of Technology and
+			The University of Gothenburg*
+
+03:30–04:00 Coffee Break
+
+04:00–05:10 **Demo Tools and Methodology** <!-- – Chair: Person -->
+
+            EMTk — The Emotion Mining Toolkit (short paper,
+			20&nbsp;min.)<br>
+            *Fabio Calefato, Filippo Lanubile, Nicole Novielli, and
+			Luigi Quaranta<br>
+			University of Bari*
+
+            What Software Engineering can Learn from Research on
+			Affect in Social Psychology (short paper,
+			20&nbsp;min.)<br>
+            *Lucas Gren, Per Lenberg, and Karolina Ljungberg<br>
+            Chalmers University of Technology, The University of
+			Gothenburg, and Saab AB*
+
+            Fostering Positive Affects in Software Development
+			Environments using Extended Reality (short paper,
+			20&nbsp;min.)<br>
+            *Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, and
+			Sanjay Podder<br>
+			Accenture Technology Labs*
+
+            Empirical Analysis of Affect of Merged Issues on
+			GitHub (poster, 10&nbsp;min.)<br>
+            *Marco Ortu, Michele Marchesi, and Roberto Tonelli<br>
+			Department of Electrical and Electronic Engineering,
+			University of Cagliari*
+
+05:10–05:20 Closing Panel
+
+----------------------------------------------------------------------
