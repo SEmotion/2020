@@ -20,7 +20,8 @@ Time        Event
 
             Toward Usability Problem Identification Based on User
 			Emotions Derived from Facial Expressions
-			(20&nbsp;min.)<br>
+			(20&nbsp;min.)
+			([preprint](https://ase.in.tum.de/lehrstuhl_1/research/paper/johanssen2019emotionKit.pdf))<br>
             *Jan Ole Johanssen, Jan Philip Bernius, and
 			Bernd Bruegge<br>
 			Technical University of Munich*
@@ -33,7 +34,8 @@ Time        Event
 
             Towards Recognizing the Emotions of Developers Using
 			Biometrics: The Design of a Field Study (short paper,
-			20&nbsp;min.)<br>
+			20&nbsp;min.)
+			([preprint](https://www.win.tue.nl/~aserebre/SEmotion2019.pdf))<br>
             *Daniela Girardi, Filippo Lanubile, Nicole Novielli,
 			Luigi Quaranta, and Alexander Serebrenik<br>
 			University of Bari and Eindhoven University of Technology*
@@ -45,7 +47,8 @@ Time        Event
 02:00–03:00 **Emotional Awareness in SE for Practice** <!-- – Chair: Person -->
 
             A Longitudinal Study on the Maintainers' Sentiment of a
-			Large Scale Open Source Ecosystem (20&nbsp;min.)<br>
+			Large Scale Open Source Ecosystem (20&nbsp;min.)
+			([preprint](http://mcis.polymtl.ca/publications/2019/SEMotion_2019.pdf))<br>
             *Isabella Ferreira, Kate Stewart, Daniel German, and
 			Bram Adams<br>
 			Polytechnique Montréal, University of Victoria, and
@@ -76,14 +79,16 @@ Time        Event
 04:00–05:10 **Demo Tools and Methodology** <!-- – Chair: Person -->
 
             EMTk — The Emotion Mining Toolkit (short paper,
-			20&nbsp;min.)<br>
+			20&nbsp;min.)
+			([preprint](https://arxiv.org/abs/1903.09525))<br>
             *Fabio Calefato, Filippo Lanubile, Nicole Novielli, and
 			Luigi Quaranta<br>
 			University of Bari*
 
             What Software Engineering can Learn from Research on
 			Affect in Social Psychology (short paper,
-			20&nbsp;min.)<br>
+			20&nbsp;min.)
+			([preprint](https://arxiv.org/pdf/1903.07381.pdf))<br>
             *Lucas Gren, Per Lenberg, and Karolina Ljungberg<br>
             Chalmers University of Technology, The University of
 			Gothenburg, and Saab AB*
@@ -96,7 +101,8 @@ Time        Event
 			Accenture Technology Labs*
 
             Empirical Analysis of Affect of Merged Issues on
-			GitHub (poster, 10&nbsp;min.)<br>
+			GitHub (poster, 10&nbsp;min.)
+			([preprint](https://www.researchgate.net/publication/331980204_On_The_Affect_Of_Merged_Issues_on_GitHub))<br>
             *Marco Ortu, Michele Marchesi, and Roberto Tonelli<br>
 			Department of Electrical and Electronic Engineering,
 			University of Cagliari*
