@@ -1,3 +1,5 @@
+<!-- -*- mode: Markdown; fill-column: 80; indent-tabs-mode: nil; -*- -->
+
 ## Links to Previous Workshops
 
 * [SEmotion 2018](http://collab.di.uniba.it/semotion/)

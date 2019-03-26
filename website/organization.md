@@ -1,3 +1,5 @@
+<!-- -*- mode: Markdown; fill-column: 80; indent-tabs-mode: nil; -*- -->
+
 ## Organizers
 
 <div class="photos">

@@ -1,3 +1,5 @@
+<!-- -*- mode: Markdown; fill-column: 80; indent-tabs-mode: nil; -*- -->
+
 ## Workshop Overview
 
 Affective computing is the study and development of systems and devices that can
