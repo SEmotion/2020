@@ -62,7 +62,8 @@ Time        Event
 			Universidad Complutense de Madrid*
 
             Developers' Sentiment and Issue Reopening
-			(short paper, 20&nbsp;min.)<br>
+			(short paper, 20&nbsp;min.)
+			([preprint](http://users.csc.calpoly.edu/~bcdasilv/SEmotion_2019_camReady.pdf))<br>
             *Jonathan Cheruvelil and Bruno da Silva<br>
             Amazon and California Polytechnic State University,
 			San Luis Obispo*
