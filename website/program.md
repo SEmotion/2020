@@ -57,7 +57,8 @@ Time        Event
             Linux Foundation*
 
             Emotions in Software Practice: Presentation vs. Coding
-            (short paper, 20&nbsp;min.)<br>
+            (short paper, 20&nbsp;min.)
+            ([preprint](http://www.rcolomo.com/papers/338.pdf))<br>
             *Ricardo Colomo-Palacios, Terje Samuelsen, and
             Cristina Casado-Lumbreras<br>
             Østfold University College and
