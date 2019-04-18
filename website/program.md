@@ -29,7 +29,8 @@ Time        Event
             Technical University of Munich*
 
             Supporting Rapid Product Changes through Emotional
-            Tracking (short paper, 20&nbsp;min.)<br>
+            Tracking (short paper, 20&nbsp;min.)
+            ([preprint](https://www.researchgate.net/publication/332471178_Supporting_Rapid_Product_Changes_through_Emotional_Tracking))<br>
             *Patrick Mennig, Simon Andre Scherr, and
             Frank Elberzhager<br>
             Fraunofer IESE*
