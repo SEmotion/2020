@@ -32,6 +32,7 @@ OUTPUTS = \
 	davide.png \
 	giuseppe.png \
 	maital.png \
+	robert.png \
 	SEmotion19.pdf \
 
 output/index.html:	website/index.md

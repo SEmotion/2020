@@ -7,9 +7,9 @@
 Robert Feldt, Chalmers University of Technology and The University of Gothenburg
 </p>
 
-<!-- <div class="photo"> -->
-<!-- ![](robert.png) -->
-<!-- </div> -->
+<div class="photo">
+![](robert.png)
+</div>
 
 Within the general trend of considering more and more human and "softer" aspects
 in Software Engineering, there has recently been a strong push for studying the
