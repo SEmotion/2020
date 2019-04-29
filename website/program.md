@@ -2,6 +2,14 @@
 
 ## Schedule
 
+<p style="text-align: center;">(SEmotion 2019 will be held in [the
+Sainte-Catherine Room on the Convention
+Floor](https://2019.icse-conferences.org/getImage/orig/ConventionFloor.png) of
+[the Fairmont The Queen Elizabeth
+Hotel](https://2019.icse-conferences.org/venue/icse-2019-venue).  Posters will
+be hanging in the shared poster space in [Square
+Dorchester](https://2019.icse-conferences.org/getImage/orig/ConventionFloor.png).)</p>
+
 ----------------------------------------------------------------------
 Time        Event
 ----------- ----------------------------------------------------------
@@ -18,7 +26,8 @@ Time        Event
 
 10:30–11:00 Coffee Break
 
-11:00–12:00 **Biometric Devices for Emotional Awareness in SE** <!-- – Chair: Person -->
+11:00–12:00 **Biometric Devices for Emotional Awareness in SE**<br>
+            *Chair: Lucas Gren*
 
             Toward Usability Problem Identification Based on User
             Emotions Derived from Facial Expressions
@@ -47,7 +56,8 @@ Time        Event
 
 12:30–02:00 Lunch Break
 
-02:00–03:00 **Emotional Awareness in SE for Practice** <!-- – Chair: Person -->
+02:00–03:00 **Emotional Awareness in SE for Practice**<br>
+            *Chair: Nicole Novielli*
 
             A Longitudinal Study on the Maintainers' Sentiment of a
             Large Scale Open Source Ecosystem (20&nbsp;min.)
@@ -74,14 +84,16 @@ Time        Event
 
 03:00–03:30 **Invited Talk**
 
-            TBD<br>
+            [Soft Software Engineering: Risks and Proposals for the
+            Future](invited_talk.html)<br>
             *Robert Feldt<br>
             Chalmers University of Technology and
             The University of Gothenburg*
 
 03:30–04:00 Coffee Break
 
-04:00–05:10 **Demo Tools and Methodology** <!-- – Chair: Person -->
+04:00–05:10 **Demo Tools and Methodology**<br>
+            *Chair: Maleknaz Nayebi*
 
             EMTk — The Emotion Mining Toolkit (short paper,
             20&nbsp;min.)

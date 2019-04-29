@@ -74,7 +74,11 @@ $else$
 $if(page-keynote)$
 	  <li class="selected">
 $else$
+$if(page-invited_talk)$
+	  <li class="selected">
+$else$
 	  <li>
+$endif$
 $endif$
 $endif$
 	  <a href="program.html">Program</a><ul>
@@ -87,6 +91,11 @@ $if(page-keynote)$
 	    <li class="selected"><a href="keynote.html">Keynote</a></li>
 $else$
 	    <li><a href="keynote.html">Keynote</a></li>
+$endif$
+$if(page-invited_talk)$
+	    <li class="selected"><a href="invited_talk.html">Invited Talk</a></li>
+$else$
+	    <li><a href="invited_talk.html">Invited Talk</a></li>
 $endif$
 	  </ul></li>
 	  <li><a href="https://2019.icse-conferences.org/attending/registration">Registration</a></li>
@@ -120,7 +129,7 @@ $endfor$
 	      <li>Paper submissions: <s>6&nbsp;February 2019</s></li>
 	      <li>Notification to authors: <s>1&nbsp;March 2019</s></li>
 	      <li>Camera-ready copies due: <s>15&nbsp;March 2019</s></li>
-	      <li>Workshop: 28&nbsp;May 2019</li>
+	      <li>Workshop: 28&nbsp;May 2019</a></li>
 	    </ul>
 	  </section>
 	  <section id="social-media">
