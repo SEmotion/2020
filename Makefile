@@ -28,6 +28,7 @@ OUTPUTS = \
 	past.html \
 	index.css \
 	montreal.jpeg \
+	attendees.jpeg \
 	bonita.png \
 	davide.png \
 	giuseppe.png \

@@ -23,3 +23,7 @@ present, and discuss their work-in-progress.
 High-quality contributions about empirical studies, theoretical models, as well
 as tools for supporting emotion awareness in software engineering are invited to
 the workshop, both from academia and industry.
+
+<div class="fullsize-photo">
+![Thanks to all for another successful SEmotion!](attendees.jpeg)
+</div>
