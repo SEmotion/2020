@@ -7,7 +7,7 @@ DIRECTORIES = output
 
 HTML_TEMPLATE = website/template.html
 
-YEAR = 2019
+YEAR = 2020
 USERNAME = $(shell git config --get user.name)
 EMAIL = $(shell git config --get user.email)
 
