@@ -1,3 +1,0 @@
-Header set Cache-Control "max-age=0, public, must-revalidate"
-RemoveHandler cgi-script .py
-AddType text/plain .py
