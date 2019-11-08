@@ -155,7 +155,7 @@ div.photo {
     margin-bottom: 1ex;
 }
 figure {
-    display: inline-block;
+    display: table-cell;
     margin: 0.25em;
     text-align: center;
 }
