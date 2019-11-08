@@ -148,14 +148,15 @@ footer {
 
 div.photos {
     text-align: center;
+    display: flex;
 }
+
 div.photo {
     float: right;
     margin-left: 1em;
     margin-bottom: 1ex;
 }
 figure {
-    display: table-cell;
     margin: 0.25em;
     text-align: center;
 }
