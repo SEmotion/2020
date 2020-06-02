@@ -208,3 +208,7 @@ span.unbreakable {
 a, a:visited {
     color: #26b;
 }
+
+.odd {
+    background-color: lightgray;
+}
