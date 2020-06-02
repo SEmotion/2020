@@ -14,7 +14,9 @@ main {
     box-shadow: 0 0 8px rgba(127, 127, 127, 0.5);
     overflow: hidden;
 }
-
+tr.header {
+  background-color: lightgray;
+}
 header {
     padding-bottom: 1em;
     border-bottom: 1px solid #eee;
