@@ -179,7 +179,7 @@ th {
 }
 th, td {
     padding: 0.5em;
-    vertical-align: top;
+    vertical-align: middle;
 }
 td em {
     font-size: 75%;
@@ -198,7 +198,7 @@ li p {
     text-align: unset;
 }
 #schedule~table td {
-    text-align: justify !important;
+    text-align: left !important;
 }
 
 span.unbreakable {
